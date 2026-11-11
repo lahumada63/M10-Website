@@ -1,0 +1,56 @@
+---
+title: "Customizing Websites with CSS/SCSS"
+format: html
+---
+
+## What is CSS?
+
+CSS (Cascading Style Sheets) is used to customize the appearance of a website. It allows us to change colors, fonts, spacing, and layouts.
+
+CSS is useful for creating a professional and consistent design across different website pages.
+
+## What is SCSS?
+
+SCSS is an extension of CSS that offers additional features, such as variables and nested styling rules.
+
+These features make it easier to organize and manage website designs.
+
+## Using CSS/SCSS in Quarto
+
+Quarto allows users to customize their websites beyond the default themes.
+
+CSS and SCSS can be used to:
+
+- Customize website colors and fonts
+- Improve spacing and page layouts
+- Style headings and navigation menus
+- Maintain a consistent design
+
+## CSS Example
+
+This example changes the color and size of headings.
+
+```css
+h1 {
+  color: #234e70;
+  font-size: 32px;
+}
+```
+
+## SCSS Example
+
+SCSS allows us to create reusable variables.
+
+```scss
+$primary-color: #234e70;
+
+h1 {
+  color: $primary-color;
+}
+```
+
+## What I Learned
+
+Learning about CSS and SCSS has helped me better understand how website design can improve the user experience.
+
+By using these tools with Quarto, I can create a more organized and visually appealing portfolio that showcases my digital marketing and analytics skills.

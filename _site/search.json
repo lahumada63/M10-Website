@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Portfolio",
+    "section": "About Me",
+    "text": "About Me\nI’m a digital marketing professional with experience in email marketing, campaign management, and marketing analytics.\nCurrently, I work as an Email Marketing Manager, focusing on developing email marketing strategies, improving campaign performance, and using data to make informed marketing decisions.\nI’m passionate about combining creative marketing strategies with data-driven insights to create meaningful customer experiences."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome to My Portfolio",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University, Pomona\nMaster of Science in Digital Marketing (MSDM)\nSouthern New Hampshire University\nBachelor of Arts in History"
+  },
+  {
+    "objectID": "index.html#professional-skills",
+    "href": "index.html#professional-skills",
+    "title": "Welcome to My Portfolio",
+    "section": "Professional Skills",
+    "text": "Professional Skills\n\nEmail Marketing and Automation\nHubSpot and CRM Management\nGoogle Analytics 4 (GA4)\nMarketing Analytics and Reporting\nCampaign Strategy and Optimization\nRStudio, Quarto, and Tableau"
+  },
+  {
+    "objectID": "index.html#career-aspirations",
+    "href": "index.html#career-aspirations",
+    "title": "Welcome to My Portfolio",
+    "section": "Career Aspirations",
+    "text": "Career Aspirations\nMy goal is to continue growing as a marketing professional by combining creative strategy with data analytics to help organizations improve their marketing performance."
+  },
+  {
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Welcome to My Portfolio",
+    "section": "Explore My Work",
+    "text": "Explore My Work\nUse the navigation menu above to explore my Culminating Experience Project (CEP), Quarto dashboard, and website development skills."
+  },
+  {
+    "objectID": "styling.html",
+    "href": "styling.html",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "",
+    "text": "CSS (Cascading Style Sheets) is used to customize the appearance of a website. It allows us to change colors, fonts, spacing, and layouts.\nCSS is useful for creating a professional and consistent design across different website pages."
+  },
+  {
+    "objectID": "styling.html#what-is-css",
+    "href": "styling.html#what-is-css",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "",
+    "text": "CSS (Cascading Style Sheets) is used to customize the appearance of a website. It allows us to change colors, fonts, spacing, and layouts.\nCSS is useful for creating a professional and consistent design across different website pages."
+  },
+  {
+    "objectID": "styling.html#what-is-scss",
+    "href": "styling.html#what-is-scss",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "What is SCSS?",
+    "text": "What is SCSS?\nSCSS is an extension of CSS that offers additional features, such as variables and nested styling rules.\nThese features make it easier to organize and manage website designs."
+  },
+  {
+    "objectID": "styling.html#using-cssscss-in-quarto",
+    "href": "styling.html#using-cssscss-in-quarto",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "Using CSS/SCSS in Quarto",
+    "text": "Using CSS/SCSS in Quarto\nQuarto allows users to customize their websites beyond the default themes.\nCSS and SCSS can be used to:\n\nCustomize website colors and fonts\nImprove spacing and page layouts\nStyle headings and navigation menus\nMaintain a consistent design"
+  },
+  {
+    "objectID": "styling.html#css-example",
+    "href": "styling.html#css-example",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "CSS Example",
+    "text": "CSS Example\nThis example changes the color and size of headings.\nh1 {\n  color: #234e70;\n  font-size: 32px;\n}"
+  },
+  {
+    "objectID": "styling.html#scss-example",
+    "href": "styling.html#scss-example",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "SCSS Example",
+    "text": "SCSS Example\nSCSS allows us to create reusable variables.\n$primary-color: #234e70;\n\nh1 {\n  color: $primary-color;\n}"
+  },
+  {
+    "objectID": "styling.html#what-i-learned",
+    "href": "styling.html#what-i-learned",
+    "title": "Customizing Websites with CSS/SCSS",
+    "section": "What I Learned",
+    "text": "What I Learned\nLearning about CSS and SCSS has helped me better understand how website design can improve the user experience.\nBy using these tools with Quarto, I can create a more organized and visually appealing portfolio that showcases my digital marketing and analytics skills."
+  },
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "",
+    "text": "Quarto Listings allow users to organize and display multiple documents, projects, or reports on a website.\nInstead of manually adding links to every project, listings can automatically display content from selected files or folders."
+  },
+  {
+    "objectID": "listings.html#what-are-quarto-listings",
+    "href": "listings.html#what-are-quarto-listings",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "",
+    "text": "Quarto Listings allow users to organize and display multiple documents, projects, or reports on a website.\nInstead of manually adding links to every project, listings can automatically display content from selected files or folders."
+  },
+  {
+    "objectID": "listings.html#how-listings-work",
+    "href": "listings.html#how-listings-work",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "How Listings Work",
+    "text": "How Listings Work\nQuarto can organize projects into lists, grids, or tables, making it easier for visitors to navigate different types of content.\nListings are especially helpful for portfolios that include several projects."
+  },
+  {
+    "objectID": "listings.html#benefits-of-using-listings",
+    "href": "listings.html#benefits-of-using-listings",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "Benefits of Using Listings",
+    "text": "Benefits of Using Listings\n\nOrganize projects in one location\nMake portfolio content easier to navigate\nAutomatically display new projects\nCreate a more professional website layout"
+  },
+  {
+    "objectID": "listings.html#applying-listings-to-my-portfolio",
+    "href": "listings.html#applying-listings-to-my-portfolio",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "Applying Listings to My Portfolio",
+    "text": "Applying Listings to My Portfolio\nAs I continue developing my digital marketing portfolio, Quarto Listings can help me organize projects related to:\n\nDigital Marketing Strategy\nMarketing Analytics\nData Visualization\nCampaign Performance"
+  },
+  {
+    "objectID": "listings.html#my-portfolio-projects",
+    "href": "listings.html#my-portfolio-projects",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "My Portfolio Projects",
+    "text": "My Portfolio Projects\nHere are examples of projects featured in my portfolio:\n\n\n\nProject\nDescription\n\n\n\n\nRKR Facebook Performance Dashboard\nAnalysis of Facebook engagement and post performance for my MSDM Culminating Experience Project.\n\n\nWebsite Customization with CSS/SCSS\nDemonstration of website styling and design using Quarto."
+  },
+  {
+    "objectID": "listings.html#what-i-learned",
+    "href": "listings.html#what-i-learned",
+    "title": "Using Quarto Listings for My Portfolio",
+    "section": "What I Learned",
+    "text": "What I Learned\nQuarto Listings provide a useful way to organize and showcase projects as a portfolio continues to grow.\nBy using listings, I can make my website easier to navigate and provide visitors with a centralized location to explore my marketing and analytics work."
+  }
+]

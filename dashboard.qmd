@@ -1,0 +1,94 @@
+---
+title: "RKR Facebook Performance Dashboard"
+format:
+  dashboard:
+    scrolling: true
+---
+
+# Facebook Performance Overview
+
+This dashboard analyzes Facebook performance for the Restaurant at Kellogg Ranch (RKR) as part of my Master of Science in Digital Marketing Culminating Experience Project (CEP).
+
+The analysis focuses on Facebook engagement, content performance, and opportunities to improve RKR's social media marketing strategy.
+
+**Reporting Period:** April 1 – October 1, 2026
+
+
+## Key Performance Metrics
+
+::: {.valuebox title="Facebook Views"}
+10,540
+:::
+
+::: {.valuebox title="Facebook Engagements"}
+416
+:::
+
+::: {.valuebox title="Engagement Rate"}
+3.9%
+:::
+
+::: {.valuebox title="Published Facebook Posts"}
+14
+::: 
+
+
+# Facebook Engagement Analysis
+
+## Views vs. Engagements
+
+```{r}
+#| echo: false
+
+metrics <- c(10540, 416)
+names(metrics) <- c("Views", "Engagements")
+
+barplot(
+  metrics,
+  col = c("steelblue", "orange"),
+  main = "RKR Facebook Performance",
+  ylab = "Total",
+  ylim = c(0, 11000)
+)
+```
+
+
+# Facebook Post Performance
+
+## Engagement by Facebook Post
+
+```{r}
+#| echo: false
+#| warning: false
+
+# Import Facebook data
+facebook <- read.csv("RKR_Facebook_Post_Performance.csv")
+
+# Select top 10 posts by engagements
+top_posts <- facebook[order(-facebook$Engagements), ]
+top_posts <- head(top_posts, 10)
+
+# Create labels using publication dates
+post_dates <- as.Date(
+  top_posts$Date,
+  format = "%m/%d/%Y"
+)
+
+# Create chart
+par(mar = c(8, 4, 3, 1))
+
+barplot(
+  top_posts$Engagements,
+  names.arg = format(post_dates, "%b %d"),
+  col = "steelblue",
+  main = "Top 10 Facebook Posts by Engagement",
+  ylab = "Total Engagements",
+  las = 2,
+  cex.names = 0.8
+)
+```
+
+## What This Tells Us
+
+This chart highlights RKR's Facebook posts with the highest engagement during the reporting period. Comparing individual posts can help identify which content generates stronger audience interactions and inform future content strategies.
+

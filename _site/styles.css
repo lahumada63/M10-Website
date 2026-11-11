@@ -1,0 +1,22 @@
+
+/* Light Blue Portfolio Theme */
+
+body {
+  background-color: #f5faff;
+}
+
+.navbar {
+  background-color: #d6eaf8;
+}
+
+h1, h2, h3 {
+  color: #2874a6;
+}
+
+p {
+  line-height: 1.7;
+}
+
+a {
+  color: #2980b9;
+}

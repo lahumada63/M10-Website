@@ -1,0 +1,58 @@
+---
+title: "Using Quarto Listings for My Portfolio"
+listing:
+  contents:
+    - dashboard.qmd
+    - styling.qmd
+  type: grid
+  sort: "title asc"
+---
+
+
+---
+title: "Using Quarto Listings for My Portfolio"
+format: html
+---
+
+## What Are Quarto Listings?
+
+Quarto Listings allow users to organize and display multiple documents, projects, or reports on a website.
+
+Instead of manually adding links to every project, listings can automatically display content from selected files or folders.
+
+## How Listings Work
+
+Quarto can organize projects into lists, grids, or tables, making it easier for visitors to navigate different types of content.
+
+Listings are especially helpful for portfolios that include several projects.
+
+## Benefits of Using Listings
+
+- Organize projects in one location
+- Make portfolio content easier to navigate
+- Automatically display new projects
+- Create a more professional website layout
+
+## Applying Listings to My Portfolio
+
+As I continue developing my digital marketing portfolio, Quarto Listings can help me organize projects related to:
+
+- Digital Marketing Strategy
+- Marketing Analytics
+- Data Visualization
+- Campaign Performance
+
+## My Portfolio Projects
+
+Here are examples of projects featured in my portfolio:
+
+| Project | Description |
+|---|---|
+| [RKR Facebook Performance Dashboard](dashboard.qmd) | Analysis of Facebook engagement and post performance for my MSDM Culminating Experience Project. |
+| [Website Customization with CSS/SCSS](styling.qmd) | Demonstration of website styling and design using Quarto. |
+
+## What I Learned
+
+Quarto Listings provide a useful way to organize and showcase projects as a portfolio continues to grow.
+
+By using listings, I can make my website easier to navigate and provide visitors with a centralized location to explore my marketing and analytics work.

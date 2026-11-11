@@ -1,0 +1,42 @@
+
+---
+title: "Welcome to My Portfolio"
+---
+
+
+![](images/profile.png){width=220px fig-alt="Professional headshot"}
+
+## About Me
+
+I'm a digital marketing professional with experience in email marketing, campaign management, and marketing analytics.
+
+Currently, I work as an Email Marketing Manager, focusing on developing email marketing strategies, improving campaign performance, and using data to make informed marketing decisions.
+
+I'm passionate about combining creative marketing strategies with data-driven insights to create meaningful customer experiences.
+
+## Education
+
+**California State Polytechnic University, Pomona**
+
+Master of Science in Digital Marketing (MSDM)
+
+**Southern New Hampshire University**
+
+Bachelor of Arts in History
+
+## Professional Skills
+
+- Email Marketing and Automation
+- HubSpot and CRM Management
+- Google Analytics 4 (GA4)
+- Marketing Analytics and Reporting
+- Campaign Strategy and Optimization
+- RStudio, Quarto, and Tableau
+
+## Career Aspirations
+
+My goal is to continue growing as a marketing professional by combining creative strategy with data analytics to help organizations improve their marketing performance.
+
+## Explore My Work
+
+Use the navigation menu above to explore my Culminating Experience Project (CEP), Quarto dashboard, and website development skills.
