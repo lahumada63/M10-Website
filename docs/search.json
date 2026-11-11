@@ -131,5 +131,26 @@
     "title": "Using Quarto Listings for My Portfolio",
     "section": "What I Learned",
     "text": "What I Learned\nQuarto Listings provide a useful way to organize and showcase projects as a portfolio continues to grow.\nBy using listings, I can make my website easier to navigate and provide visitors with a centralized location to explore my marketing and analytics work."
+  },
+  {
+    "objectID": "submission.html",
+    "href": "submission.html",
+    "title": "M10 Hands-on Practice: Website Submission",
+    "section": "",
+    "text": "For this assignment, I created a Quarto website to showcase my professional background, digital marketing skills, and experience using Quarto.\nThe website includes my Home page, RKR Facebook Performance Dashboard, CSS/SCSS examples, and Quarto Listings."
+  },
+  {
+    "objectID": "submission.html#digital-marketing-portfolio",
+    "href": "submission.html#digital-marketing-portfolio",
+    "title": "M10 Hands-on Practice: Website Submission",
+    "section": "",
+    "text": "For this assignment, I created a Quarto website to showcase my professional background, digital marketing skills, and experience using Quarto.\nThe website includes my Home page, RKR Facebook Performance Dashboard, CSS/SCSS examples, and Quarto Listings."
+  },
+  {
+    "objectID": "submission.html#website-links",
+    "href": "submission.html#website-links",
+    "title": "M10 Hands-on Practice: Website Submission",
+    "section": "Website Links",
+    "text": "Website Links\nPublished Website:\nView My Digital Marketing Portfolio\nGitHub Repository:\nView My GitHub Repository"
   }
 ]

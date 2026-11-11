@@ -1,0 +1,27 @@
+---
+title: "M10 Hands-on Practice: Website Submission"
+format: html
+---
+
+
+---
+title: "M10 Hands-on Practice: Website Submission"
+format: html
+---
+
+## Digital Marketing Portfolio
+
+For this assignment, I created a Quarto website to showcase my professional background, digital marketing skills, and experience using Quarto.
+
+The website includes my Home page, RKR Facebook Performance Dashboard, CSS/SCSS examples, and Quarto Listings.
+
+## Website Links
+
+**Published Website:**
+
+[View My Digital Marketing Portfolio](https://lahumada63.github.io/M10-Website/)
+
+**GitHub Repository:**
+
+[View My GitHub Repository](https://github.com/lahumada63/M10-Website)
+
